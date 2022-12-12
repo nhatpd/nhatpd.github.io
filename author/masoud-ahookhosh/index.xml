@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masoud Ahookhosh | Duy Nhat Phan</title>
+    <link>https://nhatpd.github.io/author/masoud-ahookhosh/</link>
+      <atom:link href="https://nhatpd.github.io/author/masoud-ahookhosh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masoud Ahookhosh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Duy Nhat Phan 2022</copyright><lastBuildDate>Sat, 05 Mar 2022 20:13:52 +0000</lastBuildDate>
+    <image>
+      <url>https://nhatpd.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Masoud Ahookhosh</title>
+      <link>https://nhatpd.github.io/author/masoud-ahookhosh/</link>
+    </image>
+    
+    <item>
+      <title>Block Bregman Majorization Minimization with Extrapolation</title>
+      <link>https://nhatpd.github.io/publication/jhien_siam_2022/</link>
+      <pubDate>Sat, 05 Mar 2022 20:13:52 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jhien_siam_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>India, Political Economy | Duy Nhat Phan</title>
+    <link>https://nhatpd.github.io/tag/india-political-economy/</link>
+      <atom:link href="https://nhatpd.github.io/tag/india-political-economy/index.xml" rel="self" type="application/rss+xml" />
+    <description>India, Political Economy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Duy Nhat Phan 2022</copyright><lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhatpd.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>India, Political Economy</title>
+      <link>https://nhatpd.github.io/tag/india-political-economy/</link>
+    </image>
+    
+    <item>
+      <title>India Political Economy Data Repository</title>
+      <link>https://nhatpd.github.io/project/india-data/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/project/india-data/</guid>
+      <description>&lt;p&gt;Data data everywhere and not a byte to analyze!&lt;/p&gt;
+&lt;p&gt;Everyone who has done quantitative analysis of India&amp;rsquo;s political economy knows how frustrating it can be to wrangle the data. There are so much good data published by the Government of India, but it is frequently not released in a user-friendly format. The goal of this project is to rectify that problem by making state- and district-level data available in a more straightfoward and standardized way.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

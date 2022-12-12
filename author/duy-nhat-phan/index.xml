@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duy Nhat Phan</title>
+    <link>https://nhatpd.github.io/author/duy-nhat-phan/</link>
+      <atom:link href="https://nhatpd.github.io/author/duy-nhat-phan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Duy Nhat Phan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Duy Nhat Phan 2022</copyright><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhatpd.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Duy Nhat Phan</title>
+      <link>https://nhatpd.github.io/author/duy-nhat-phan/</link>
+    </image>
+    
+    <item>
+      <title>Inertial alternating direction method of multipliers for non-convex non-smooth optimization</title>
+      <link>https://nhatpd.github.io/publication/jhien_coa_2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jhien_coa_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpeedyIBL: A comprehensive, precise, and fast implementation of instance-based learning theory</title>
+      <link>https://nhatpd.github.io/publication/jngoc_brm_2022/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jngoc_brm_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block Bregman Majorization Minimization with Extrapolation</title>
+      <link>https://nhatpd.github.io/publication/jhien_siam_2022/</link>
+      <pubDate>Sat, 05 Mar 2022 20:13:52 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jhien_siam_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DCA based approaches for bi-level variable selection and application for estimate multiple sparse covariance matrices</title>
+      <link>https://nhatpd.github.io/publication/jan_neuro_2022/</link>
+      <pubDate>Wed, 05 Jan 2022 20:13:52 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jan_neuro_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel DCA based algorithms for a special class of nonconvex problems with application in machine learning</title>
+      <link>https://nhatpd.github.io/publication/jan_amc_2021/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jan_amc_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An accelerated IRNN-Iteratively Reweighted Nuclear Norm algorithm for nonconvex nonsmooth low-rank minimization problems</title>
+      <link>https://nhatpd.github.io/publication/jnhat_cam_2021/</link>
+      <pubDate>Mon, 01 Nov 2021 20:13:52 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jnhat_cam_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DCA based Algorithm with Extrapolation for Nonconvex Nonsmooth Optimization</title>
+      <link>https://nhatpd.github.io/publication/pnhat_mor_2021/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/pnhat_mor_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inertial block majorization minimization framework for nonconvex nonsmooth optimization</title>
+      <link>https://nhatpd.github.io/publication/phien_jmlr_2020/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/phien_jmlr_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cognitive Hysteretic-IBL Model for Coordinated Multi-Agent Transportation Problems</title>
+      <link>https://nhatpd.github.io/publication/cngoc_acm_2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/cngoc_acm_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Difference-of-Convex functions Algorithms</title>
+      <link>https://nhatpd.github.io/publication/pan_jota_2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/pan_jota_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic DCA for minimizing a large sum of DC functions with application to multi-class logistic regression</title>
+      <link>https://nhatpd.github.io/publication/jan_neura_2021/</link>
+      <pubDate>Tue, 15 Dec 2020 20:13:52 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jan_neura_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group variable selection via L_p,0 regularization and application to optimal scoring</title>
+      <link>https://nhatpd.github.io/publication/jnhat_neura_2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jnhat_neura_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Difference of Convex functions Algorithm and its Application to Sparse Binary Logistic Regression</title>
+      <link>https://nhatpd.github.io/publication/cnhat_ijcai_2018/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/cnhat_ijcai_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Covariance Matrix Estimation by DCA-Based Algorithms</title>
+      <link>https://nhatpd.github.io/publication/jnhat_neura_2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jnhat_neura_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Approach for Estimating Multiple Sparse Precision Matrices Using L_0,0 Regularization</title>
+      <link>https://nhatpd.github.io/publication/cnhat_dsaa_2017/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/cnhat_dsaa_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DC programming and DCA for sparse Fisher linear discriminant analysis</title>
+      <link>https://nhatpd.github.io/publication/jan_neura_2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jan_neura_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic DCA for the large-sum of non-convex functions problem and its application to group variable selection in classification</title>
+      <link>https://nhatpd.github.io/publication/can_icml_2017/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/can_icml_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient bi-level variable selection and application to estimation of multiple covariance matrices</title>
+      <link>https://nhatpd.github.io/publication/cnhat_pakdd_2017/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/cnhat_pakdd_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic DCA for Sparse Multiclass Logistic Regression</title>
+      <link>https://nhatpd.github.io/publication/can_iccsama_2017/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/can_iccsama_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DC programming and DCA for sparse optimal scoring problem</title>
+      <link>https://nhatpd.github.io/publication/jan_neuro_2016/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jan_neuro_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DC Programming Approach for Sparse Optimal Scoring</title>
+      <link>https://nhatpd.github.io/publication/can_pakdd_2015/</link>
+      <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/can_pakdd_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DC Programming Approach for Sparse Estimation of a Covariance Matrix</title>
+      <link>https://nhatpd.github.io/publication/cnhat_cmo_205/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/cnhat_cmo_205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dc programming approach for sparse linear discriminant analysis</title>
+      <link>https://nhatpd.github.io/publication/cnhat_iccsama_2014/</link>
+      <pubDate>Sat, 19 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/cnhat_iccsama_2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hoai Minh Le | Duy Nhat Phan</title>
+    <link>https://nhatpd.github.io/author/hoai-minh-le/</link>
+      <atom:link href="https://nhatpd.github.io/author/hoai-minh-le/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hoai Minh Le</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Duy Nhat Phan 2022</copyright><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhatpd.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Hoai Minh Le</title>
+      <link>https://nhatpd.github.io/author/hoai-minh-le/</link>
+    </image>
+    
+    <item>
+      <title>Novel DCA based algorithms for a special class of nonconvex problems with application in machine learning</title>
+      <link>https://nhatpd.github.io/publication/jan_amc_2021/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jan_amc_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic DCA for minimizing a large sum of DC functions with application to multi-class logistic regression</title>
+      <link>https://nhatpd.github.io/publication/jan_neura_2021/</link>
+      <pubDate>Tue, 15 Dec 2020 20:13:52 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jan_neura_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Difference of Convex functions Algorithm and its Application to Sparse Binary Logistic Regression</title>
+      <link>https://nhatpd.github.io/publication/cnhat_ijcai_2018/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/cnhat_ijcai_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic DCA for the large-sum of non-convex functions problem and its application to group variable selection in classification</title>
+      <link>https://nhatpd.github.io/publication/can_icml_2017/</link>
+      <pubDate>Mon, 17 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/can_icml_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic DCA for Sparse Multiclass Logistic Regression</title>
+      <link>https://nhatpd.github.io/publication/can_iccsama_2017/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/can_iccsama_2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

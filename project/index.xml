@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Duy Nhat Phan</title>
+    <link>https://nhatpd.github.io/project/</link>
+      <atom:link href="https://nhatpd.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Duy Nhat Phan 2022</copyright><lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhatpd.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://nhatpd.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>High Profile Strikes Dataset</title>
+      <link>https://nhatpd.github.io/project/high-profile-strikes/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/project/high-profile-strikes/</guid>
+      <description>&lt;p&gt;The High Profile Strikes Dataset (HPSD) is a coding of press reports catalogued in the “World Publications” section of the Nexis database pertaining to economic and political trade union protest. In the original dataset, the stories were identified by using broade search terms like &amp;ldquo;labor,&amp;rdquo; &amp;ldquo;strikes,&amp;rdquo; and &amp;ldquo;industrial disputes&amp;rdquo; and included protest from non-OECD countries for the period 1980 to 2005.&lt;/p&gt;
+&lt;p&gt;The new version of the dataset builds on the earlier version while also expanding the number of sources (e.g. moving beyond just Nexis). I am also looking for ways to make the database open-source, i.e. to allow individual researchers to contribute codings of strike events and to suggest corrections to earlier codings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>India Political Economy Data Repository</title>
+      <link>https://nhatpd.github.io/project/india-data/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/project/india-data/</guid>
+      <description>&lt;p&gt;Data data everywhere and not a byte to analyze!&lt;/p&gt;
+&lt;p&gt;Everyone who has done quantitative analysis of India&amp;rsquo;s political economy knows how frustrating it can be to wrangle the data. There are so much good data published by the Government of India, but it is frequently not released in a user-friendly format. The goal of this project is to rectify that problem by making state- and district-level data available in a more straightfoward and standardized way.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring Labor Rights</title>
+      <link>https://nhatpd.github.io/project/measuring-labor-rights/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/project/measuring-labor-rights/</guid>
+      <description>&lt;p&gt;This project aims to improve upon existing measures of labor standards, most of which evaluate a government&amp;rsquo;s respect for worker rights through observed violations of labor standards. I discuss this method and some shortcomings associated with it in an &lt;a href=&#34;https://www.emmanuelteitelbaum.com/publication/prq_2010/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article that I published&lt;/a&gt; in Political Research Quarterly. The essential idea is to instead measure labor standards through evidence of the ability of workers to proactively exercise their rights.&lt;/p&gt;
+&lt;p&gt;The work involves gathering and standardizing cross-national data on union density, collective bargaining, worker protests and strikes. These data will then be used to develop a composite index of labor standards with statistical measurement models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conflict in South Asia</title>
+      <link>https://nhatpd.github.io/project/south-asia-conflict/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/project/south-asia-conflict/</guid>
+      <description>&lt;p&gt;This project aims to provide a detailed coding of violent events associated with South Asia&amp;rsquo;s many ongoing insurgencies. The primary source of data for these codings is the &lt;a href=&#34;https://www.satp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;South Asia Terrorism Portal&lt;/a&gt;. So far, my team has coded more than ten thousand events related to India&amp;rsquo;s Maoist Insurgency occurring between 2005 and 2017. The next step will be to extend the coding of Maoist-related events to the present and then start coding events for other conflicts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strikes, Industrial Relations | Duy Nhat Phan</title>
+    <link>https://nhatpd.github.io/tag/strikes-industrial-relations/</link>
+      <atom:link href="https://nhatpd.github.io/tag/strikes-industrial-relations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Strikes, Industrial Relations</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Duy Nhat Phan 2022</copyright><lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nhatpd.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Strikes, Industrial Relations</title>
+      <link>https://nhatpd.github.io/tag/strikes-industrial-relations/</link>
+    </image>
+    
+    <item>
+      <title>High Profile Strikes Dataset</title>
+      <link>https://nhatpd.github.io/project/high-profile-strikes/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://nhatpd.github.io/project/high-profile-strikes/</guid>
+      <description>&lt;p&gt;The High Profile Strikes Dataset (HPSD) is a coding of press reports catalogued in the “World Publications” section of the Nexis database pertaining to economic and political trade union protest. In the original dataset, the stories were identified by using broade search terms like &amp;ldquo;labor,&amp;rdquo; &amp;ldquo;strikes,&amp;rdquo; and &amp;ldquo;industrial disputes&amp;rdquo; and included protest from non-OECD countries for the period 1980 to 2005.&lt;/p&gt;
+&lt;p&gt;The new version of the dataset builds on the earlier version while also expanding the number of sources (e.g. moving beyond just Nexis). I am also looking for ways to make the database open-source, i.e. to allow individual researchers to contribute codings of strike events and to suggest corrections to earlier codings.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
