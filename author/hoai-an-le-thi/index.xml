@@ -5,20 +5,12 @@
     <link>https://nhatpd.github.io/author/hoai-an-le-thi/</link>
       <atom:link href="https://nhatpd.github.io/author/hoai-an-le-thi/index.xml" rel="self" type="application/rss+xml" />
     <description>Hoai An Le Thi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Duy Nhat Phan 2022</copyright><lastBuildDate>Wed, 05 Jan 2022 20:13:52 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Duy Nhat Phan 2022</copyright><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nhatpd.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Hoai An Le Thi</title>
       <link>https://nhatpd.github.io/author/hoai-an-le-thi/</link>
     </image>
-    
-    <item>
-      <title>DCA based approaches for bi-level variable selection and application for estimate multiple sparse covariance matrices</title>
-      <link>https://nhatpd.github.io/publication/jan_neuro_2022/</link>
-      <pubDate>Wed, 05 Jan 2022 20:13:52 +0000</pubDate>
-      <guid>https://nhatpd.github.io/publication/jan_neuro_2022/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Novel DCA based algorithms for a special class of nonconvex problems with application in machine learning</title>
@@ -33,6 +25,14 @@
       <link>https://nhatpd.github.io/publication/pnhat_mor_2021/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://nhatpd.github.io/publication/pnhat_mor_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DCA based approaches for bi-level variable selection and application for estimate multiple sparse covariance matrices</title>
+      <link>https://nhatpd.github.io/publication/jan_neuro_2022/</link>
+      <pubDate>Tue, 05 Jan 2021 20:13:52 +0000</pubDate>
+      <guid>https://nhatpd.github.io/publication/jan_neuro_2022/</guid>
       <description></description>
     </item>
     
